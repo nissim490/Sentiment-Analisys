@@ -1,5 +1,5 @@
- # Sentiment analysis using Convolutional Neural Networks of tweets on Twitter 
- <p align="center"><img src="https://github.com/nissim490/SentimentAnalisysProj/blob/master/images/a.ico" height="550" width="700" /></p>
+ # OBL - Ort Braude Library
+ <p align="center"><img src="https://github.com/nissim490/The-Library-System/blob/master/images/icon.ico" height="250" width="300" /></p>
 
   
 ## Software description  
@@ -15,14 +15,7 @@ The words in each tweet are compared with those in other tweets that have been p
 
 # Project Components  
 * cnn  
-# Data 
-
-Download these files for the testing and training of your model or else you can download from:
-http://help.sentiment140.com/for-students and then unpack it;
- rename the smaller file as test.csv and larger one as train.csv.
-
-
-
+* OCSF - Java framework that can be used to develop client-server systems. 
   
 # Libraries
 * Re
