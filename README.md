@@ -1,8 +1,9 @@
  # Sentiment analysis using Convolutional Neural Networks of tweets on Twitter 
- <p align="center"><img src="https://github.com/nissim490/SentimentAnalisysProj/blob/master/images/b.ico" height="550" width="700" /></p>
 
+ <p align="center"><img src="https://github.com/nissim490/SentimentAnalisysProj/blob/master/images/b.ico" height="250" width="300" /></p>
+<p align="center"><img src="https://github.com/nissim490/The-Library-System/blob/master/images/icon.ico" height="250" width="300" /></p>
   
-## Software description  
+# Software description  
 People share information in social media, these include a entertaining content. This make them define themselves, to grow and nourish relationships and to get the word out about brands.
 Sentiment analysis is a fundamental problem aiming to give a machine the ability to understand the emotions and opinions expressed in a written text. 
 Solution
@@ -14,7 +15,8 @@ The words in each tweet are compared with those in other tweets that have been p
 
 
 # Project Components  
-* cnn  
+* cnn 
+
 # Data 
 
 Download these files for the testing and training of your model or else you can download from:
