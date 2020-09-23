@@ -1,5 +1,5 @@
  # Sentiment analysis using Convolutional Neural Networks of tweets on Twitter 
- <p align="center"><img src="https://github.com/nissim490/SentimentAnalisysProj/blob/master/images/a.ico" height="550" width="700" /></p>
+ <p align="center"><img src="https://github.com/nissim490/SentimentAnalisysProj/blob/master/images/b.ico" height="550" width="700" /></p>
 
   
 ## Software description  
